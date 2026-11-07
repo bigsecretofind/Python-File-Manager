@@ -1,5 +1,5 @@
 # Python-File-Manager
-Some random ass vibe coded project I made for my school finals 
+Some random ass vibe coded project(40 Human 60 AI Assistance) I made for my school finals 
 
 ## Requirements
 
